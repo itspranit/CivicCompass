@@ -1,0 +1,8 @@
+{
+  "name": "CivicCompass",
+  "description": "An empathetic smart camera assistant helping non-native speakers navigate complex government forms.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
